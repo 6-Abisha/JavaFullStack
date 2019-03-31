@@ -1,0 +1,6 @@
+com\domain\service\UserService.class
+com\domain\entity\User.class
+com\domain\controller\UserController.class
+com\domain\service\UserServiceImpl.class
+com\domain\repository\UserRepository.class
+com\domain\UserPortalApplication.class
